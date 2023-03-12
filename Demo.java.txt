@@ -1,4 +1,4 @@
 public static void main(){
 
-		//write your code here
+		//write your code here and do coding
 }
